@@ -1,0 +1,6 @@
+divide 2
+subtract 3
+subtract 5
+add 5
+multiply 42
+apply 4
