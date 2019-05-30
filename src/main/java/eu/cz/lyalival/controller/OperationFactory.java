@@ -11,7 +11,7 @@ public class OperationFactory {
     private static String MULTIPLY = "multiply";
     private static String DIVIDE = "divide";
 
-    public static Operation getOperation( String operation ){
+    public static Operation getOperation(String operation) {
         if (operation.equals(ADD))
             return new Addition();
         if (operation.equals(SUBTRACT))
